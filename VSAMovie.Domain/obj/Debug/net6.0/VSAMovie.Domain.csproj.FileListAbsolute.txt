@@ -1,0 +1,13 @@
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\bin\Debug\net6.0\VSAMovie.Domain.deps.json
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\bin\Debug\net6.0\VSAMovie.Domain.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\bin\Debug\net6.0\ref\VSAMovie.Domain.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\bin\Debug\net6.0\VSAMovie.Domain.pdb
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\VSAMovie.Domain.GlobalUsings.g.cs
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\VSAMovie.Domain.csproj.AssemblyReference.cache
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\VSAMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\VSAMovie.Domain.AssemblyInfoInputs.cache
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\VSAMovie.Domain.AssemblyInfo.cs
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\VSAMovie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\VSAMovie.Domain.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\ref\VSAMovie.Domain.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.Domain\obj\Debug\net6.0\VSAMovie.Domain.pdb

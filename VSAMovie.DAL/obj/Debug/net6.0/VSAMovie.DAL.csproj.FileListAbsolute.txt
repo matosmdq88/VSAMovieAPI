@@ -1,0 +1,17 @@
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\bin\Debug\net6.0\VSAMovie.DAL.deps.json
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\bin\Debug\net6.0\VSAMovie.DAL.runtimeconfig.json
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\bin\Debug\net6.0\VSAMovie.DAL.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\bin\Debug\net6.0\ref\VSAMovie.DAL.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\bin\Debug\net6.0\VSAMovie.DAL.pdb
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\bin\Debug\net6.0\VSAMovie.Domain.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\bin\Debug\net6.0\VSAMovie.Domain.pdb
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.GlobalUsings.g.cs
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.csproj.AssemblyReference.cache
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.AssemblyInfoInputs.cache
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.AssemblyInfo.cs
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.csproj.CoreCompileInputs.cache
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\ref\VSAMovie.DAL.dll
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.pdb
+C:\Users\matos\source\repos\VSAMoviesAPI\VSAMovie.DAL\obj\Debug\net6.0\VSAMovie.DAL.genruntimeconfig.cache

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "LOr3MRz8EhMW2u7ZVEHSwUxVjCNtn7eHjikX/pnf4yY=",
+  "Source": "VSAMovie.WebAPI",
+  "BasePath": "_content/VSAMovie.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VSAMovie.WebAPI\\wwwroot",
+      "Source": "VSAMovie.WebAPI",
+      "ContentRoot": "C:\\Users\\matos\\Desktop\\repos\\VSAMoviesAPI\\VSAMovie.WebAPI\\wwwroot\\",
+      "BasePath": "_content/VSAMovie.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\matos\\Desktop\\repos\\VSAMoviesAPI\\VSAMovie.WebAPI\\wwwroot\\Movies\\2b8c29a2-6f75-4041-8091-3b9b10ec58f7.jpg",
+      "SourceId": "VSAMovie.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matos\\Desktop\\repos\\VSAMoviesAPI\\VSAMovie.WebAPI\\wwwroot\\",
+      "BasePath": "_content/VSAMovie.WebAPI",
+      "RelativePath": "Movies/2b8c29a2-6f75-4041-8091-3b9b10ec58f7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Movies\\2b8c29a2-6f75-4041-8091-3b9b10ec58f7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\matos\\Desktop\\repos\\VSAMoviesAPI\\VSAMovie.WebAPI\\wwwroot\\Movies\\a80afb70-c220-4a00-9393-8c359ebd26eb.jpg",
+      "SourceId": "VSAMovie.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matos\\Desktop\\repos\\VSAMoviesAPI\\VSAMovie.WebAPI\\wwwroot\\",
+      "BasePath": "_content/VSAMovie.WebAPI",
+      "RelativePath": "Movies/a80afb70-c220-4a00-9393-8c359ebd26eb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Movies\\a80afb70-c220-4a00-9393-8c359ebd26eb.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\matos\\Desktop\\repos\\VSAMoviesAPI\\VSAMovie.WebAPI\\wwwroot\\Movies\\d34299a3-03ea-4c11-bb88-5428c0cea986.jpg",
+      "SourceId": "VSAMovie.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matos\\Desktop\\repos\\VSAMoviesAPI\\VSAMovie.WebAPI\\wwwroot\\",
+      "BasePath": "_content/VSAMovie.WebAPI",
+      "RelativePath": "Movies/d34299a3-03ea-4c11-bb88-5428c0cea986.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Movies\\d34299a3-03ea-4c11-bb88-5428c0cea986.jpg"
+    }
+  ]
+}

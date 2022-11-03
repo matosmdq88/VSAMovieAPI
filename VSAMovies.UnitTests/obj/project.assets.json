@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "VSAMovie.WebAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VSAMovie.WebAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VSAMovie.WebAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VSAMovie.WebAPI/1.0.0": {
+      "type": "project",
+      "path": "../VSAMovie.WebAPI/VSAMovie.WebAPI.csproj",
+      "msbuildProject": "../VSAMovie.WebAPI/VSAMovie.WebAPI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "VSAMovie.WebAPI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\54223\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\reposs\\VSAMoviesAPI\\VSAMovies.UnitTests\\VSAMovies.UnitTests.csproj",
+      "projectName": "VSAMovies.UnitTests",
+      "projectPath": "D:\\reposs\\VSAMoviesAPI\\VSAMovies.UnitTests\\VSAMovies.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\54223\\.nuget\\packages\\",
+      "outputPath": "D:\\reposs\\VSAMoviesAPI\\VSAMovies.UnitTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\54223\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\reposs\\VSAMoviesAPI\\VSAMovie.WebAPI\\VSAMovie.WebAPI.csproj": {
+              "projectPath": "D:\\reposs\\VSAMoviesAPI\\VSAMovie.WebAPI\\VSAMovie.WebAPI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
